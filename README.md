@@ -24,3 +24,4 @@ TekTalk is a feature-rich social media website built using the MERN stack. It al
 
 Please feel free to contribute to this project and make it even better.
 
+![](https://github.com/TekTristan/TekTalk/blob/main/fCbaKTVwcW.gif)
