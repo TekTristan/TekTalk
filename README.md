@@ -20,7 +20,7 @@ The frontend of TekTalk is built using React.js and Material-UI. The user interf
 The backend of TekTalk is built using Node.js, Express.js and MongoDB. The backend handles user authentication and authorization, as well as handling requests for adding friends, creating posts, and liking posts. The backend also communicates with the MongoDB database to store and retrieve data.
 
 # Conclusion
-TekTalk is a feature-rich social media website built using the MERN stack. It allows users to connect with friends, post images, and like posts. The website also includes a dark mode feature that changes the color scheme of the website to a darker palette. The frontend is built using React.js and Material-UI, while the backend is built using Node.js, Express.js, and MongoDB. This project is a great example of how to use the MERN stack to build a full-featured web application.
+TekTalk is a feature-rich social media website built using the MERN stack. It allows users to connect with friends, post images, and like posts. The website also includes a dark mode feature that changes the color scheme of the website to a darker palette. The frontend is built using React.js and Material-UI, while the backend is built using Node.js, Express.js, and MongoDB. This project is a great example of how to use the MERN stack to build a full-featured web application. Kudos to EdRoh!
 
 Please feel free to contribute to this project and make it even better.
 
